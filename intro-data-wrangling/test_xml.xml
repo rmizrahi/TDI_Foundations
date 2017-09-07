@@ -1,0 +1,11 @@
+<student_list>
+  <student>
+    <name type="first name">Gary</name>
+    <major>computer science</major>
+    <hobbies>
+      <hobby>running</hobby>
+      <hobby>climbing trees</hobby>
+      <hobby>eating ice cream</hobby>
+    </hobbies>
+  </student>
+</student_list>

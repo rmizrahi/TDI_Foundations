@@ -1,0 +1,8 @@
+indx,name,team,number,true_false
+10,Jane,A,100,True
+20,Jason,B,120,True
+30,Jill,B,110,False
+40,Julie,A,90,True
+50,Jim,A,80,False
+60,John,B,140,False
+70,Jen,B,60,True

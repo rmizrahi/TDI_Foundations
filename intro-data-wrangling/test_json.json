@@ -1,0 +1,39 @@
+[
+  {
+    "major": "computer science", 
+    "name": "Gary", 
+    "age": 22, 
+    "grades": {
+      "linear algebra": 97, 
+      "cpu design": 94, 
+      "english": 82
+    }, 
+    "hobbies": [
+      "running", 
+      "climbing trees", 
+      "eating ice cream"
+    ], 
+    "employment": [
+      "librarian", 
+      "research assistant"
+    ]
+  }, 
+  {
+    "major": "electrical engineering", 
+    "name": "Jill", 
+    "age": 23, 
+    "grades": {
+      "calculus": 94, 
+      "electronics": 99, 
+      "control systems": 95, 
+      "french": 88
+    }, 
+    "hobbies": [
+      "swimming", 
+      "reading", 
+      "drawing", 
+      "public speaking"
+    ], 
+    "minor": "management"
+  }
+]

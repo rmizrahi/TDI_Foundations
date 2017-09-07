@@ -1,0 +1,20 @@
+(lp0
+S'Python is awesome!'
+p1
+aI42
+aF3.1415926535
+a(lp2
+I1
+aI2
+aI3
+aa(dp3
+I1
+S'a'
+p4
+sI2
+S'b'
+p5
+sI3
+S'c'
+p6
+sa.
